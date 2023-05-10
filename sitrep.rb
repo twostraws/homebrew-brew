@@ -1,8 +1,8 @@
 class Sitrep < Formula
   desc "Sitrep is a source code analyzer for Swift projects, giving you a high-level overview of your code."
   homepage "https://github.com/twostraws/Sitrep"
-  url "https://github.com/twostraws/Sitrep/archive/2.1.0.zip"
-  sha256 "cb8794c583c4d3d8e35c07f8ac239bc48a073b33264169d8be8b07a288e2ea21"
+  url "https://github.com/twostraws/Sitrep/archive/3.0.0.zip"
+  sha256 "88d2afeed4295a724307117f6e88d1a13e53b89e795d847d84ea9394be9f15e7"
   license "Apache-2.0" => { with: "LLVM-exception" }
 
   def install
